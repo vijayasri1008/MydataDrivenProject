@@ -15,6 +15,7 @@ public class list1 {
 	public void test2()
 	{
 		System.out.println("test2");
+		System.out.println("time calculated");
 		System.out.println(System.currentTimeMillis());
 
 		System.out.println(Thread.currentThread().getId());
